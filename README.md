@@ -1,3 +1,3 @@
 # Angular6
  New angular project
-im time 
+im time 42:53
